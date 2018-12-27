@@ -10,11 +10,11 @@
 <link href="${bootstrapCss}" rel="stylesheet" />
 <link href="${coreCss}" rel="stylesheet" />
 </head>
- 
+  <link href="..\include\navbar.txt" />
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Polyballwerkstatt</a>
+		<a class="navbar-brand" href="hello">Polyballwerkstatt</a>
 	</div>
   </div>
 </nav>
